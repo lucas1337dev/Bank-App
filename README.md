@@ -2,7 +2,7 @@
 
 <img src='https://github.com/lucas1337dev/Bank-App/blob/main/Bank-App.png' alt='project img' />
 
-<p>Bank-App is a landing page developed with <b>React</b></p>
+<p>Bank-App is a landing page developed with <b>React</b>.</p>
 
 <a href='https://lucas1337dev.github.io/Bank-App/'>Live Project</a>
 
