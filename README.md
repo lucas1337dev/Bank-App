@@ -4,7 +4,7 @@
 
 <p>Bank-App is a landing page developed with <b>React</b>.</p>
 
-<a href='https://lucas1337dev.github.io/Bank-App/'>Live Project</a>
+<a href=''>Live Project</a>
 
 <h2>Technologies:</h2>
 <p>
